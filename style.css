@@ -1,0 +1,33 @@
+#contact iframe {
+    width: 100%;
+}
+
+.contact_1 h3 {
+    display: inline;
+}
+
+.contact_1 a {
+    text-shadow: none;
+}
+
+input {
+    background-color: grey;
+}
+
+.marqueeStyle {
+    background-color: blue;
+}
+
+body {
+    text-align: center;
+    background-color: lightgreen;
+}
+
+#video {
+    height: 710px;
+    width: 100%;
+}
+
+#details {
+    margin-bottom: 10px;
+}
